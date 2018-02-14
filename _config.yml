@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "gio tiongson"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bearded.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "a man of fleeting interests"
   location         : "philippines"
   email            :
